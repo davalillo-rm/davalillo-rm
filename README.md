@@ -1,9 +1,11 @@
 # 🎒 Welcome, I'm Davalillo
 
-**'Developer/Content_Creator'**
+**`Developer/Creator`**
 
 ### About Me
-I'm a student of Computer Statistics at the Universidad Nacional Agraria La Molina in Peru.
+I'm a student of Computer Statistics at the Universidad Nacional Agraria La Molina in Peru. My current focus is on developing my skills in Python, C#, and SQL, and I'm constantly exploring new ways to leverage these tools to solve real-world problems. Whether it's building predictive models, working with databases, or creating applications that bring data to life, I enjoy every part of the journey 📈🚀
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -21,8 +23,10 @@ I'm a student of Computer Statistics at the Universidad Nacional Agraria La Moli
 <br />
 
 #
+
+
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davalillo-rm&show_icons=true&theme=radical)
 
 ---
 
